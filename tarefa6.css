@@ -1,0 +1,31 @@
+a {
+    color: brown;
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
+  body {
+    font-family: "Courier New", monospace;
+    background-color: #ffda6e;
+  }
+  
+  .titulo {
+    color: #6e1301;
+    transition: 0.2s;
+  }
+  
+  .titulo:hover {
+    color: red;
+  }
+  
+  img {
+    transition: 0.6s;
+  }
+  
+  img:hover {
+    padding: 40px;
+    filter: blur(10px);
+  }
+  
